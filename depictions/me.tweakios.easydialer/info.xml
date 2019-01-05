@@ -1,0 +1,56 @@
+<package>
+	<id>me.tweakios.easydialer</id>
+	<name>EasyDialer</name>
+	<version>0.0.1-1+debug</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.0</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Dial contacts by T9 searching</shortDescription>
+	<descriptionlist>
+		<description>Powerful T9 searching.</description>
+		<description>make dial contacts easily.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>screenshot1.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot2.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot3.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot4.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot5.PNG</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/u/TweakiOS</name>
+			<url>https://www.reddit.com/user/TweakiOS</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
