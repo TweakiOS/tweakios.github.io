@@ -1,19 +1,25 @@
 <package>
-	<id>me.tweakios.easydock</id>
-	<name>EasyDock</name>
+	<id>com.tweakios.easydialer</id>
+	<name>EasyDialer</name>
 	<version>0.0.1-1+debug</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Dial contacts by T9 searching</shortDescription>
 	<descriptionlist>
-		<description>You can have floating dock on IPhone with EasyDock.</description>
+		<description>Powerful T9 searching.</description>
+		<description>make dial contacts easily.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -27,6 +33,14 @@
 		<screenshot>
 			<description></description>
 			<image>screenshot3.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot4.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot5.PNG</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
