@@ -1,7 +1,7 @@
 <package>
 	<id>com.tweakios.easydialer</id>
 	<name>EasyDialer</name>
-	<version>0.0.1-1+debug</version>
+	<version>0.0.2-2+debug</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.0</maxiOS>
