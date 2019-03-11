@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<maxiOS>11.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -15,11 +15,6 @@
 	<descriptionlist>
 		<description>Powerful T9 searching.</description>
 		<description>make dial contacts easily.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
