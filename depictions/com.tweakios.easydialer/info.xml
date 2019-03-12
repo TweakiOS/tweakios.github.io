@@ -14,7 +14,8 @@
 	</dependencies>
 	<shortDescription>Easy Dial with T9 Search Functionality.</shortDescription>
 	<descriptionlist>
-		<description>Easy Dial with T9 Search Functionality.\nDevelopped on iPhone 7 iOS 11.3.1. It should work well on iOS 9+, which use CNContact framework. It is integrated with native phone.app with additional options in preference. It supports English and Mandarin Chinese.</description>
+		<description>Easy Dial with T9 Search Functionality.</description>
+		<description>Developped on iPhone 7 iOS 11.3.1. It should work well on iOS 9+, which use CNContact framework. It is integrated with native phone.app with additional options in preference. It supports English and Mandarin Chinese.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
