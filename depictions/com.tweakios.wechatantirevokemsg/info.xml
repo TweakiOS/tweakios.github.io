@@ -1,11 +1,11 @@
 <package>
-	<id>com.tweakios.easydock</id>
-	<name>EasyDock</name>
+	<id>com.tweakios.wechatantirevokemsg</id>
+	<name>WeChatAntiRevokeMsg</name>
 	<version>0.0.1-1+debug</version>
 	<compatibility>
 		<firmware>
-			<miniOS>11.0</miniOS>
-			<maxiOS>11.4</maxiOS>
+			<miniOS>10.0</miniOS>
+			<maxiOS>12.0</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -14,22 +14,8 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>You can have floating dock on IPhone with EasyDock.</description>
+		<description>Always keep partner's msg.</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description></description>
-			<image>screenshot1.PNG</image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image>screenshot2.PNG</image>
-		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image>screenshot3.PNG</image>
-		</screenshot>		
-	</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
