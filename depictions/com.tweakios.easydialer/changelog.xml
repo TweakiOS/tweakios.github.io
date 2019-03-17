@@ -1,8 +1,4 @@
 <changelog>
-	<!changes>
-		<version>0.0.2-4+debug</version>
-		<change>Initial Release</change>
-	<!/changes>
 	<changes>
 		<version>0.0.2-14+debug</version>
 		<change>Second release</change>
@@ -10,5 +6,9 @@
 		<change>2. Correct show-up of Chinese Contact, should be same as dock Contacts.app.</change>
 		<change>3. Improve stability when launching Phone.app (w/ enabling replace dock Keypad).</change>
 		<change>4. Add Arabic localization. Thanks A7med.y.</change>
+	</changes>
+	<changes>
+		<version>0.0.2-4+debug</version>
+		<change>Initial Release</change>
 	</changes>
 </changelog>
