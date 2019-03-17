@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.0.2-14</version>
+		<version>0.0.2-14+debug</version>
 		<change>Second release</change>
 		<change>1. support Russian Contacts; add organization field. Features donated by Сергей Инок.</change>
 		<change>2. Correct show-up of Chinese Contact, should be same as dock Contacts.app.</change>
