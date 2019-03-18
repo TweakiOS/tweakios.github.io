@@ -1,11 +1,11 @@
 <package>
 	<id>com.tweakios.easydialer</id>
 	<name>EasyDialer</name>
-	<version>0.0.2-14+debug</version>
+	<version>0.0.2-15+debug</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
-			<maxiOS>11.4</maxiOS>
+			<maxiOS>12.1</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 		</firmware>
 	</compatibility>
@@ -48,10 +48,8 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<version>0.0.2-15+debug</version>
-		<change>fix localization issue of number labels for Chinese</change>
-		<version>0.0.2-14+debug</version>
-		<change>Second release</change>
+		<change>0.0.2-15+debug: fix localization issue of number labels for Chinese</change>
+		<change>0.0.2-14+debug:</change>
 		<change>1. Support Russian Contacts; add organization field. Features donated by Сергей Инок.</change>
 		<change>2. Correct show-up of Chinese Contact, should be same as dock Contacts.app.</change>
 		<change>3. Improve stability when launching Phone.app (w/ enabling replace dock Keypad).</change>
