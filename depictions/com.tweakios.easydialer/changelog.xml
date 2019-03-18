@@ -1,7 +1,7 @@
 <changelog>
 	<changes>
-		<version>0.0.2-15+debug</version>
-		<change>fix localization issue of number labels for Chinese</change>
+		<version>0.0.2-16+debug</version>
+		<change>fix localization issue.</change>
 	</changes>
 	<changes>
 		<version>0.0.2-14+debug</version>
