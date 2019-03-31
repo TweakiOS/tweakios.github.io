@@ -1,0 +1,43 @@
+<package>
+	<id>com.tweakios.easybrowser</id>
+	<name>EasyBrowser</name>
+	<version>0.0.2-1+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>12.1</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>You can open URL link in favorite browser.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>screenshot1.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot2.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot3.PNG</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>0.0.2-1+debug: Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/u/TweakiOS</name>
+			<url>https://www.reddit.com/user/TweakiOS</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
