@@ -1,6 +1,14 @@
 <changelog>
 	<changes>
+		<version>0.0.2-2</version>
+		<change>improve criteria for isTyping</change>
+	</changes>
+<	<changes>
+		<version>0.0.2-1</version>
+		<change>support arm64e A12/iOS12</change>
+	</changes>
+	<changes>
 		<version>0.0.1-1</version>
 		<change>Initial release</change>
 	</changes>
-</changelog>
+/changelog>

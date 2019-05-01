@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.2-1+debug</version>
+		<change>support arm64e A12/iOS12</change>
+	</changes>
+	<changes>
 		<version>0.0.1-3+debug</version>
 		<change>Initial Release</change>
 	</changes>
