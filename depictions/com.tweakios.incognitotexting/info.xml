@@ -31,6 +31,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
+		<change>0.0.2-4+debug: for iMessage only</change>
 		<change>0.0.2-2+debug: improve criteria for isTyping</change>
 		<change>0.0.2-1+debug: support arm64e A12/iOS12</change>
 	</changelog>
