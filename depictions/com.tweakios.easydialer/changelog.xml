@@ -1,12 +1,11 @@
 <changelog>
 	<changes>
-		<version>0.0.5-106+debug</version>
+		<version>0.0.6-5+debug</version>
 		<change>1. tap bottom right Keypad TAB to activate T9 keypad to input.</change>
 		<change>2. long-press Keypad TAB to switch EasyDialer and native dialer.</change>
-		<change>3. support to search contacts in Korean.</change>
-		<change>4. support to override T9 Key character for Korean/Turkish/Russian.</change>
-		<change>5. Enhanced call history information.</change>
-		<change>6. Control searching numbers by '#'.</change>
+		<change>3. support to add T9 Key character for Turkish/Russian.</change>
+		<change>4. Enhanced call history information.</change>
+		<change>5. Control searching numbers by '#'.</change>
 	</changes>
 	<changes>
 		<version>0.0.4-1+debug</version>
