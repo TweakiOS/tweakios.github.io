@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.6-19+debug</version>
+		<change>fixed an internal logical issue. Verified on iPhone8 iOS12.4</change>
+	</changes>
+	<changes>
 		<version>0.0.6-5+debug</version>
 		<change>1. tap bottom right Keypad TAB to activate T9 keypad to input.</change>
 		<change>2. long-press Keypad TAB to switch EasyDialer and native dialer.</change>
