@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.7-1+debug</version>
+		<change>update for iOS13. Verified on iPhone8 iOS13.3. Lower iOS should use old version.</change>
+	</changes>
+	<changes>
 		<version>0.0.6-19+debug</version>
 		<change>fixed an internal logical issue. Verified on iPhone8 iOS12.4</change>
 	</changes>
