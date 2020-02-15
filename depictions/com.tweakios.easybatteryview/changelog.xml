@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>0.0.1-1</version>
+		<change>initial release - support arm64/arm64e iOS13</change>
+	</changes>
+</changelog>

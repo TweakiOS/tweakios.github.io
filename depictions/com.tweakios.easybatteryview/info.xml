@@ -1,0 +1,39 @@
+<package>
+	<id>com.tweakios.easybatteryview</id>
+	<name>EasyBatteryView</name>
+	<version>0.0.1-1+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>You can customize Battery View in Status Bar easily.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>screenshot1.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot2.PNG</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>0.0.1-1+debug: initial release - support arm64/arm64e iOS13</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/u/TweakiOS</name>
+			<url>https://www.reddit.com/user/TweakiOS</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
