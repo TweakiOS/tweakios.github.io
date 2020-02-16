@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.1-2</version>
+		<change>removed color feature to avoid bugs. will add an option later for this feature when ready.</change>
+	</changes>
+	<changes>
 		<version>0.0.1-1</version>
 		<change>initial release - support arm64/arm64e iOS13</change>
 	</changes>
