@@ -1,0 +1,29 @@
+<package>
+	<id>com.tweakios.easycomma</id>
+	<name>EasyComma</name>
+	<version>0.0.1-1+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>13.4</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>tapping space bar triple to get a comma!</description>
+	</descriptionlist>
+	<changelog>
+		<change>0.0.1-1+debug: initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/u/TweakiOS</name>
+			<url>https://www.reddit.com/user/TweakiOS</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
