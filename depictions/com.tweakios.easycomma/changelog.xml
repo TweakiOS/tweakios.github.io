@@ -1,6 +1,10 @@
 <changelog>
 	<changes>
+		<version>0.0.2-1</version>
+		<change>double tap space for comma, triple tap space for period, verified on iPhone11 iOS13.3 Unc0ver</change>
+	</changes>
+	<changes>
 		<version>0.0.1-1</version>
-		<change>Initial Release</change>
+		<change>initial release, triple tap space for comma, verified on iPhone8 iOS13.3 Checkra1n</change>
 	</changes>
 </changelog>

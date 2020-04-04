@@ -1,5 +1,13 @@
 <changelog>
 	<changes>
+		<version>0.0.2-1</version>
+		<change>initial revision for notch iPhone, verified on iPhone11 iOS13.3 Unc0ver.</change>
+	</changes>
+	<changes>
+		<version>0.0.1-7</version>
+		<change>final revision for notchless iPhone, verified on iPhone8 iOS13.3 Checkra1n.</change>
+	</changes>
+	<changes>
 		<version>0.0.1-2</version>
 		<change>removed color feature to avoid bugs. will add an option later for this feature when ready.</change>
 	</changes>

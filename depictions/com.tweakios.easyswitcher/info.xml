@@ -1,7 +1,7 @@
 <package>
-	<id>com.tweakios.easycomma</id>
-	<name>EasyComma</name>
-	<version>0.0.2-1+debug</version>
+	<id>com.tweakios.easyswitcher</id>
+	<name>EasySwitcher</name>
+	<version>0.0.1-1+debug</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -14,11 +14,10 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>tapping space bar twice/triple to get a comma/period!</description>
+		<description>lock/unlock orientation by hardware ringer key!</description>
 	</descriptionlist>
 	<changelog>
-		<change>0.0.2-1+debug: double tap space for comma, triple tap space for period, verified on iPhone11 iOS13.3 Unc0ver</change>
-		<change>0.0.1-1+debug: initial release, triple tap space for comma, verified on iPhone8 iOS13.3 Checkra1n</change>
+		<change>0.0.1-1+debug: initial release, verified on iPhone11 iOS13.3 Unc0ver.</change>
 	</changelog>
 	<links>
 		<link>
