@@ -1,0 +1,61 @@
+<package>
+	<id>com.tweakios.easydialer14</id>
+	<name>EasyDialer14</name>
+	<version>14.3.0-1+debug</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+			<maxiOS>14.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Easy Dial with T9 Search Functionality.</shortDescription>
+	<descriptionlist>
+		<description>Easy Dial with T9 Search Functionality.</description>
+		<description>It should work well on iOS 13+, which use CNContact framework. It is integrated with native phone.app with additional options in preference. It supports English and Mandarin Chinese.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>screenshot1.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot2.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot3.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot4.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot5.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot6.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<description></description>
+			<image>screenshot7.PNG</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>14.3.0-1+debug: update for iOS14. Verified on iPhone8/12 iOS14.3. Lower iOS should use old version.</change>
+		<change>0.0.7-1+debug: update for iOS13. Verified on iPhone8 iOS13.3. Lower iOS should use old version.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/u/TweakiOS</name>
+			<url>https://www.reddit.com/user/TweakiOS</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

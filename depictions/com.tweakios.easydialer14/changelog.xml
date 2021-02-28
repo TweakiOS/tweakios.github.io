@@ -1,0 +1,11 @@
+<changelog>
+	<changes>
+		<version>14.3.0-1+debug</version>
+		<change>update for iOS14. Verified on iPhone8/12 iOS14.3. Lower iOS should use old version.</change>
+		<change>Only support English and Chinese now. Not support company name yet. </change>
+	</changes>
+	<changes>
+		<version>0.0.7-1+debug</version>
+		<change>update for iOS13. Verified on iPhone8 iOS13.3. Lower iOS should use old version.</change>
+	</changes>
+</changelog>
