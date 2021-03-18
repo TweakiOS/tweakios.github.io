@@ -1,0 +1,804 @@
+Package: com.tweakios.
+Version: 0.0.1
+Section: Apps
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/EasyDialerApp.deb
+Size: 78880
+MD5sum: 035fd99cb14424845081ffdc2421c322
+Description: EasyDialerApp for iOS. Standalone App version of Tweak - EasyDialer14.
+Name: EasyDialerApp
+Author: TweakiOS <tweak.ios11@gmail.com>
+
+Package: com.tweakios.dictionary
+Version: 0.0.1
+Section: Apps
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Architecture: iphoneos-arm
+Filename: ./debs/dictionary.deb
+Size: 232418
+MD5sum: 141ee01b80109e801ad7974df3cef55a
+Description: Compact Dictionary app for iOS. Forked from - https://github.com/jhokit/CompactDictionary!
+Name: Dictionary
+Author: TweakiOS <tweak.ios11@gmail.com>
+
+Package: com.tweakios.easybatteryview
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybatteryview_0.0.2-1+debug_iphoneos-arm.deb
+Size: 30830
+Installed-Size: 408
+MD5sum: 0eb6fab2fc6f3f266ef48424f5a99c00
+Description: Customize the battery view in the status bar.
+Name: EasyBatteryView
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybatteryview
+
+Package: com.tweakios.easybatteryview
+Version: 0.0.1-2+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybatteryview_0.0.1-2+debug_iphoneos-arm.deb
+Size: 27380
+Installed-Size: 400
+MD5sum: 2f1b6934bb9be38205f21b4559b2e4a6
+Description: Customize the battery view in the status bar.
+Name: EasyBatteryView
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybatteryview
+
+Package: com.tweakios.easybatteryview
+Version: 0.0.1-5+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybatteryview_0.0.1-5+debug_iphoneos-arm.deb
+Size: 28806
+Installed-Size: 404
+MD5sum: ef7de0b3c0c0c7e0f09cc6a9cbff14b2
+Description: Customize the battery view in the status bar.
+Name: EasyBatteryView
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybatteryview
+
+Package: com.tweakios.easybatteryview
+Version: 0.0.1-6+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybatteryview_0.0.1-6+debug_iphoneos-arm.deb
+Size: 30032
+Installed-Size: 408
+MD5sum: 9c9f72ee2e00e49b6eecd20ce15c00ec
+Description: Customize the battery view in the status bar.
+Name: EasyBatteryView
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybatteryview
+
+Package: com.tweakios.easybatteryview
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybatteryview_0.0.1-1+debug_iphoneos-arm.deb
+Size: 28550
+Installed-Size: 404
+MD5sum: 16e3f9df331aab1ecba7ae2394b8418c
+Description: Customize the battery view in the status bar.
+Name: EasyBatteryView
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybatteryview
+
+Package: com.tweakios.easybatteryview
+Version: 0.0.1-7+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybatteryview_0.0.1-7+debug_iphoneos-arm.deb
+Size: 30646
+Installed-Size: 408
+MD5sum: 60c566e989d10a25f846a9d284b5ecf3
+Description: Customize the battery view in the status bar.
+Name: EasyBatteryView
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybatteryview
+
+Package: com.tweakios.easybatteryview
+Version: 0.0.1-4+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybatteryview_0.0.1-4+debug_iphoneos-arm.deb
+Size: 27504
+Installed-Size: 404
+MD5sum: be3b3f7b210cffb068d11310153a8207
+Description: Customize the battery view in the status bar.
+Name: EasyBatteryView
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybatteryview
+
+Package: com.tweakios.easybatteryview
+Version: 0.0.1-3+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybatteryview_0.0.1-3+debug_iphoneos-arm.deb
+Size: 27502
+Installed-Size: 404
+MD5sum: 0d3c38dc716d1ed4dc8f0e6da6663ef1
+Description: Customize the battery view in the status bar.
+Name: EasyBatteryView
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybatteryview
+
+Package: com.tweakios.easybrowser
+Version: 0.0.2-2+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybrowser_0.0.2-2+debug_iphoneos-arm.deb
+Size: 39790
+Installed-Size: 312
+MD5sum: b172f91e935a658b3b4f6b458c3320a1
+Description: Use your favorite web browser!
+Name: EasyBrowser
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybrowser
+
+Package: com.tweakios.easybrowser
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybrowser_0.0.2-1+debug_iphoneos-arm.deb
+Size: 39816
+Installed-Size: 312
+MD5sum: 00c2dee97bc95012692cfb6eafa39380
+Description: Use your favorite web browser!
+Name: EasyBrowser
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybrowser
+
+Package: com.tweakios.easybrowser
+Version: 0.0.3-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easybrowser_0.0.3-1+debug_iphoneos-arm.deb
+Size: 70022
+Installed-Size: 380
+MD5sum: 542591ef0b1a13d2b1f6da67014535fd
+Description: Use your favorite web browser!
+Name: EasyBrowser
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easybrowser
+
+Package: com.tweakios.easycomma
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easycomma_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4172
+Installed-Size: 168
+MD5sum: 540e32f4665aa6805335e9e01300be6c
+Description: tapping space bar triple to get a comma!
+Name: EasyComma
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easycomma
+
+Package: com.tweakios.easycomma
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easycomma_0.0.2-1+debug_iphoneos-arm.deb
+Size: 4768
+Installed-Size: 168
+MD5sum: 446890ce5d8f4829e2e722bf27d06c5d
+Description: tapping space bar triple to get a comma!
+Name: EasyComma
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easycomma
+
+Package: com.tweakios.easydialer
+Version: 0.0.3-3+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.3-3+debug_iphoneos-arm.deb
+Size: 150062
+Installed-Size: 692
+MD5sum: 20012cec0ad6305416533f2156f140ad
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.6-5+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.6-5+debug_iphoneos-arm.deb
+Size: 107658
+Installed-Size: 764
+MD5sum: 0ebe54b14c1a547e7b2dd5819682afb0
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.7-3+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.7-3+debug_iphoneos-arm.deb
+Size: 111910
+Installed-Size: 804
+MD5sum: b9d7a0cf61f6369859fa8fb3e3fdcb27
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.3-4+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.3-4+debug_iphoneos-arm.deb
+Size: 150114
+Installed-Size: 692
+MD5sum: 7c1bd41a8db18581f075094073d45538
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.2-8+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.2-8+debug_iphoneos-arm.deb
+Size: 140278
+Installed-Size: 636
+MD5sum: 4ca944db2cbfc49e7023fa29d53842e1
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.6-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.6-1+debug_iphoneos-arm.deb
+Size: 107722
+Installed-Size: 764
+MD5sum: b3b5e951e0a17aed323671edb72f79da
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.7-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.7-1+debug_iphoneos-arm.deb
+Size: 111916
+Installed-Size: 804
+MD5sum: b23ba9e435eb06872e3f4ee22689321f
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.5-105+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.5-105+debug_iphoneos-arm.deb
+Size: 108162
+Installed-Size: 772
+MD5sum: ceceee12fb827291dd2978922a75eaea
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.2-17+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.2-17+debug_iphoneos-arm.deb
+Size: 144696
+Installed-Size: 672
+MD5sum: cbefa86f6d4d2011a818ccef571c96fd
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.6-3+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.6-3+debug_iphoneos-arm.deb
+Size: 107666
+Installed-Size: 764
+MD5sum: d2fcad7e4baac420a3dcbc587cee7048
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.2-14+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.2-14+debug_iphoneos-arm.deb
+Size: 143838
+Installed-Size: 648
+MD5sum: 9606bee0840434778a00be633c976132
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.3-5+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.3-5+debug_iphoneos-arm.deb
+Size: 150082
+Installed-Size: 692
+MD5sum: c449939258d6e7f228f8ae607b74064c
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.7-2+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.7-2+debug_iphoneos-arm.deb
+Size: 111890
+Installed-Size: 804
+MD5sum: c820e2eb4a104fadc40b2643aec36ff5
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.2-4+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.2-4+debug_iphoneos-arm.deb
+Size: 139076
+Installed-Size: 620
+MD5sum: 46d4065ade2d716649cf784945d8677f
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.5-106+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.5-106+debug_iphoneos-arm.deb
+Size: 108388
+Installed-Size: 772
+MD5sum: 02d7c8f87324529bee947ccadacddc8a
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.3-2+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.3-2+debug_iphoneos-arm.deb
+Size: 150068
+Installed-Size: 692
+MD5sum: 1d51d329d32e4799e1caf9e54503e8a6
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.5-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.5-1+debug_iphoneos-arm.deb
+Size: 105438
+Installed-Size: 760
+MD5sum: dd0efa189fd39a5de730161b2c238826
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.4-7+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.4-7+debug_iphoneos-arm.deb
+Size: 105680
+Installed-Size: 760
+MD5sum: 97ade8da7ba7cee277e90ac116ae0224
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.4-8+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.4-8+debug_iphoneos-arm.deb
+Size: 103724
+Installed-Size: 760
+MD5sum: bfd707697bf0bc0b58559cd1e2c03f33
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.4-2+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.4-2+debug_iphoneos-arm.deb
+Size: 100930
+Installed-Size: 748
+MD5sum: 9389bcdc109c76f3b293a29bd2123f17
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.4-5+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.4-5+debug_iphoneos-arm.deb
+Size: 99818
+Installed-Size: 748
+MD5sum: ae8678ab9948a5f8d57f051786c9a28a
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.4-6+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.4-6+debug_iphoneos-arm.deb
+Size: 104098
+Installed-Size: 760
+MD5sum: 18217c6f8d2306aac779481ec2fb3356
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.4-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.4-1+debug_iphoneos-arm.deb
+Size: 94244
+Installed-Size: 748
+MD5sum: 032f83cca058930fe7c0303d13813455
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer
+Version: 0.0.6-19+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer_0.0.6-19+debug_iphoneos-arm.deb
+Size: 108086
+Installed-Size: 768
+MD5sum: f07824cfb5f7a89ebb2f2093278dcbed
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer
+
+Package: com.tweakios.easydialer14
+Version: 14.3.0-3+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer14_14.3.0-3+debug_iphoneos-arm.deb
+Size: 112150
+Installed-Size: 640
+MD5sum: 4ef823b64b4f352e9325c64a0158c07f
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer14
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer14
+
+Package: com.tweakios.easydialer14
+Version: 14.3.0-2+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer14_14.3.0-2+debug_iphoneos-arm.deb
+Size: 83862
+Installed-Size: 656
+MD5sum: b9816faafa47603faac37c73b12b9df3
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer14
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer14
+
+Package: com.tweakios.easydialer14
+Version: 14.3.0-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydialer14_14.3.0-1+debug_iphoneos-arm.deb
+Size: 82304
+Installed-Size: 640
+MD5sum: b19a21439ed25b49a28f14926c19d386
+Description: You can now dial contacts easily with T9 searching!
+Name: EasyDialer14
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydialer14
+
+Package: com.tweakios.easydock
+Version: 0.0.1-2+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydock_0.0.1-2+debug_iphoneos-arm.deb
+Size: 30198
+Installed-Size: 284
+MD5sum: 96c217f7fb0a7afbcc07a10084c3c2db
+Description: EasyDock enable floating dock on iPhone with iOS 11.0 or up!
+Name: EasyDock
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydock
+
+Package: com.tweakios.easydock
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easydock_0.0.2-1+debug_iphoneos-arm.deb
+Size: 24570
+Installed-Size: 316
+MD5sum: bd98452f87132356ebbdd359cb64749f
+Description: EasyDock enable floating dock on iPhone with iOS 11.0 or up!
+Name: EasyDock
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easydock
+
+Package: com.tweakios.easynetspeed
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easynetspeed_0.0.1-1+debug_iphoneos-arm.deb
+Size: 30804
+Installed-Size: 408
+MD5sum: 4e898ef8fa3c1ff924f8b4d915298f31
+Description: Have your own net speed indicator in the status bar.
+Name: EasyNetSpeed
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easynetspeed
+
+Package: com.tweakios.easypoweroption13
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easypoweroption13_0.0.1-1+debug_iphoneos-arm.deb
+Size: 5768
+Installed-Size: 172
+MD5sum: 21367a08e4b079fb726550b7d9050980
+Description: add more options for powerdown slider, for iOS13.
+Name: EasyPowerOption13
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easypoweroption13
+
+Package: com.tweakios.easyswitcher
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.easyswitcher_0.0.1-1+debug_iphoneos-arm.deb
+Size: 29356
+Installed-Size: 396
+MD5sum: fd61124b1d2956d396ff90bceb05fbb4
+Description: use ringer switch to turn on/off orientation lock
+Name: EasySwitcher
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.easyswitcher
+
+Package: com.tweakios.incognitotexting
+Version: 0.0.2-4+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.incognitotexting_0.0.2-4+debug_iphoneos-arm.deb
+Size: 64074
+Installed-Size: 372
+MD5sum: d77c2a19a9a2fa7c0618185af3ad936f
+Description: IncognitoTexting makes you use iMessage in incognito mode.
+Name: IncognitoTexting
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.incognitotexting
+
+Package: com.tweakios.incognitotexting
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.incognitotexting_0.0.2-1+debug_iphoneos-arm.deb
+Size: 63948
+Installed-Size: 372
+MD5sum: 4e5747ca60d36a24678fae8e6102f91d
+Description: IncognitoTexting makes you use iMessage in incognito mode.
+Name: IncognitoTexting
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.incognitotexting
+
+Package: com.tweakios.incognitotexting
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.incognitotexting_0.0.1-1+debug_iphoneos-arm.deb
+Size: 68978
+Installed-Size: 348
+MD5sum: 64e6a4879cf21e55be4e1b9a9dbf6b37
+Description: IncognitoTexting makes you use iMessage in incognito mode.
+Name: IncognitoTexting
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.incognitotexting
+
+Package: com.tweakios.wechatantirevokemsg
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.wechatantirevokemsg_0.0.2-1+debug_iphoneos-arm.deb
+Size: 4884
+Installed-Size: 136
+MD5sum: d1151a6024088b0f2eb6c888a96071ec
+Description: Always keep WeChat friends' msg, no revoke!
+Name: WeChatAntiRevokeMsg
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.wechatantirevokemsg
+
+Package: com.tweakios.wechatantirevokemsg
+Version: 0.0.1-3+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.wechatantirevokemsg_0.0.1-3+debug_iphoneos-arm.deb
+Size: 6744
+Installed-Size: 120
+MD5sum: a55fb780350e57f5c8a406d1cb996f44
+Description: Always keep WeChat friends' msg, no revoke!
+Name: WeChatAntiRevokeMsg
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.wechatantirevokemsg
+
+Package: com.tweakios.wechatcallkit
+Version: 0.0.2-1+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.wechatcallkit_0.0.2-1+debug_iphoneos-arm.deb
+Size: 2888
+Installed-Size: 136
+MD5sum: c1d73b82c11e13a65e1a735130e80ba2
+Description: Pick-up WeChat Voice through system!
+Name: WeChatCallKit
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.wechatcallkit
+
+Package: com.tweakios.wechatcallkit
+Version: 0.0.1-2+debug
+Section: Tweaks
+Maintainer: TweakiOS <tweak.ios11@gmail.com>
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweakios.wechatcallkit_0.0.1-2+debug_iphoneos-arm.deb
+Size: 4008
+Installed-Size: 120
+MD5sum: a04ccda48621e80079aca549243f2c02
+Description: Pick-up WeChat Voice through system!
+Name: WeChatCallKit
+Author: TweakiOS <tweak.ios11@gmail.com>
+Depiction: https://tweakios.com/depictions/?p=com.tweakios.wechatcallkit
+

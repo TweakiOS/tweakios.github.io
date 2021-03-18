@@ -1,8 +1,13 @@
 <changelog>
 	<changes>
+		<version>14.3.0-3+debug</version>
+		<change>update for iOS14. Verified on iPhone8/12 iOS14.2/14.3. Lower iOS should use EasyDialer, not this EasyDialer14.</change>
+		<change>Support English and Chinese now, including searching company name. Support dual-sim dialing option.</change>
+	</changes>
+	<changes>
 		<version>14.3.0-1+debug</version>
-		<change>update for iOS14. Verified on iPhone8/12 iOS14.3. Lower iOS should use old version.</change>
-		<change>Only support English and Chinese now. Not support company name yet. </change>
+		<change>update for iOS14. Verified on iPhone8/12 iOS14.3. Lower iOS should use EasyDialer, not this EasyDialer14.</change>
+		<change>support English and Chinese now. Not support company name yet. </change>
 	</changes>
 	<changes>
 		<version>0.0.7-1+debug</version>
