@@ -36,6 +36,7 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
+		<change>14.3.0-6+debug: try to fix nil exception of stringByAppendingString.</change>
 		<change>14.3.0-4+debug: Support dual-sim dialing option</change>
 		<change>14.3.0-1+debug: update for iOS14. Verified on iPhone8/12 iOS14.2/14.3. Lower iOS should use EasyDialer, not this EasyDialer14.</change>
 	</changelog>

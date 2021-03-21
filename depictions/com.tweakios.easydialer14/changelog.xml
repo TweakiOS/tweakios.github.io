@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>14.3.0-6+debug</version>
+		<change>try to fix nil exception of stringByAppendingString.</change>
+	</changes>
+	<changes>
 		<version>14.3.0-4+debug</version>
 		<change>update for iOS14. Verified on iPhone8/12 iOS14.2/14.3. Lower iOS should use EasyDialer, not this EasyDialer14.</change>
 		<change>Support English and Chinese now, including searching company name. Support dual-sim dialing option.</change>
