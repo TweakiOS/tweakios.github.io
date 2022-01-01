@@ -4,6 +4,10 @@
 		<change>enable copy/paster/delete for input label; tuned call histoty label.</change>
 	</changes>
 	<changes>
+		<version>14.3.0-10</version>
+		<change>fix statusLabel and callkit in Callhistory.</change>
+	</changes>
+	<changes>
 		<version>14.3.0-6+debug</version>
 		<change>try to fix nil exception of stringByAppendingString.</change>
 	</changes>
